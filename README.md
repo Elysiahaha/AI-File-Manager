@@ -31,6 +31,7 @@
 ### 克隆项目
 
 ```bash
+Git下载链接：https://git-scm.com/download/win
 git clone https://github.com/Elysiahaha/ai-file-manager.git
 cd ai-file-manager
 ```
