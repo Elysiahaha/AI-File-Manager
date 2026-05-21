@@ -32,6 +32,7 @@
 
 ```bash
 Git下载链接：https://git-scm.com/download/win
+下载Node.js:https://nodejs.org/zh-cn
 git clone https://github.com/Elysiahaha/ai-file-manager.git
 cd ai-file-manager
 ```
