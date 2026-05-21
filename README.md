@@ -31,7 +31,7 @@
 ### 克隆项目
 
 ```bash
-git clone https://github.com/你的用户名/ai-file-manager.git
+git clone https://github.com/Elysiahaha/ai-file-manager.git
 cd ai-file-manager
 ```
 
